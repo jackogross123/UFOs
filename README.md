@@ -16,4 +16,10 @@ I think that the bottom of the website is much more interesting because it's the
 As it can be seen from the image below, I chose to filter the search by state typing in the abbreviation for Arkansas "ar". There is one report from Benton.
 
 ![image_3](https://github.com/jackogross123/UFOs/blob/main/static/images/Screen%20Shot%202021-05-09%20at%206.23.50%20PM.png)
+
 ## Summary
+### Drawback
+I think that one of the biggest drawbacks from the website is that there are limited cabailities. I understand that we are just learning how to work with this stuff, but it would be cool if we could connect this site with the site from last week about Mars in some way. I think that the site is just a little boring. Additionally, the data set is not that large so people aren't able to search through that many encounters using our site.
+
+### Reccomendations 
+The first reccomendation I'd make is having more data. With more reportings from alien encounters we would be able to support more searches and would be more appealing for the viewer. Also, I think that it would be cool if we could have a map of the encounters. We could use google maps and plot out all of the encounters around the country. I think that would make the site more interesting.
