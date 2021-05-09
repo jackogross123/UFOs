@@ -6,4 +6,8 @@ Java Script, VS Code, HTML
 [Data](https://github.com/jackogross123/UFOs/blob/main/static/js/data.js)
 
 ## Results
+When you open the website one is greeted by an intro that depicts a picture of the globe and a text paragraph about aliens. 
+![image_1](https://github.com/jackogross123/UFOs/blob/main/static/images/web_page1.png)
+
+![image_2)[https://github.com/jackogross123/UFOs/blob/main/static/images/web_page2.png)
 ## Summary
